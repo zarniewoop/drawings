@@ -20,16 +20,16 @@
           <mxGeometry height="80" width="120" x="1720" y="719" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#91E5FF);fontColor=light-dark(#000000,#0F0F0F);" value="GV Cloud Production Nodes&amp;nbsp;&lt;div&gt;[cold]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="400" y="280" as="geometry" />
+          <mxGeometry height="80" width="120" x="720" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#91E5FF);fontColor=light-dark(#000000,#0F0F0F);" value="GV Playout Nodes&lt;div&gt;[cold]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="560" y="280" as="geometry" />
+          <mxGeometry height="80" width="120" x="880" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="MSA Focus" vertex="1">
-          <mxGeometry height="80" width="120" x="80" y="280" as="geometry" />
+          <mxGeometry height="80" width="120" x="240" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-7" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFFFFF,#000000);fontColor=light-dark(#000000,#3333FF);" value="TX Cache" vertex="1">
-          <mxGeometry height="80" width="120" x="560" y="170" as="geometry" />
+          <mxGeometry height="80" width="120" x="880" y="170" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -101,28 +101,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="NRCS" vertex="1">
-          <mxGeometry height="80" width="120" x="720" y="280" as="geometry" />
+          <mxGeometry height="80" width="120" x="414" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="ALICE" vertex="1">
-          <mxGeometry height="80" width="120" x="880" y="280" as="geometry" />
+          <mxGeometry height="80" width="120" x="80" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-48" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFFFFF,#000000);fontColor=light-dark(#000000,#3333FF);" value="GV Proxy | Asset stores" vertex="1">
-          <mxGeometry height="80" width="120" x="240" y="170" as="geometry" />
+          <mxGeometry height="80" width="120" x="560" y="170" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="VOS360" vertex="1">
           <mxGeometry height="80" width="120" x="1040" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="NDI | SRT | RTP | ST2022-2" vertex="1">
-          <mxGeometry height="30" width="600" x="80" y="450" as="geometry" />
+          <mxGeometry height="30" width="960" x="520" y="450" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Broadcast Network" vertex="1">
-          <mxGeometry height="30" width="1320" x="80" y="531.5" as="geometry" />
+          <mxGeometry height="30" width="1400" x="80" y="531.5" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="SIENNA" vertex="1">
           <mxGeometry height="80" width="120" x="1200" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="GV Nodes (hot)" vertex="1">
-          <mxGeometry height="80" width="120" x="240" y="280" as="geometry" />
+          <mxGeometry height="80" width="120" x="560" y="280" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Interra Baton&amp;nbsp;&lt;div&gt;File QC&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="1880" y="719" as="geometry" />

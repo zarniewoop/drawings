@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ry8Khrgv8ROQ_OF4SDrs">
-    <mxGraphModel dx="775" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1505" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="zaOtVE0wZJ-kxe69QXcS-9" edge="1" parent="1" source="zaOtVE0wZJ-kxe69QXcS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zaOtVE0wZJ-kxe69QXcS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zaOtVE0wZJ-kxe69QXcS-1" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" value="" vertex="1">
+        <mxCell id="zaOtVE0wZJ-kxe69QXcS-1" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" value="New Schedule Event" vertex="1">
           <mxGeometry height="50" width="50" x="290" y="590" as="geometry" />
         </mxCell>
         <mxCell id="zaOtVE0wZJ-kxe69QXcS-10" edge="1" parent="1" source="zaOtVE0wZJ-kxe69QXcS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zaOtVE0wZJ-kxe69QXcS-8">
@@ -59,7 +59,7 @@
         <mxCell id="zaOtVE0wZJ-kxe69QXcS-22" edge="1" parent="1" source="zaOtVE0wZJ-kxe69QXcS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zaOtVE0wZJ-kxe69QXcS-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zaOtVE0wZJ-kxe69QXcS-21" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" value="" vertex="1">
+        <mxCell id="zaOtVE0wZJ-kxe69QXcS-21" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" value="New Policy Event" vertex="1">
           <mxGeometry height="50" width="50" x="776" y="815" as="geometry" />
         </mxCell>
         <mxCell id="zaOtVE0wZJ-kxe69QXcS-23" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" value="" vertex="1">
@@ -263,8 +263,14 @@
             <mxPoint x="8" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zaOtVE0wZJ-kxe69QXcS-76" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;High Level Workflow View&lt;/h1&gt;&lt;p&gt;V1 12-08-2026&lt;/p&gt;&lt;p&gt;The workflow has two entry points;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p&gt;1.&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;When a new schedule is delivered&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;2. When policy objects become available&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;The ESNI update workflow handles the interaction between the Beehive and &lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="230" width="466" x="284" y="301" as="geometry" />
+        <mxCell id="zaOtVE0wZJ-kxe69QXcS-76" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;High Level Workflow View&lt;/h1&gt;&lt;p&gt;V1 12-08-2026&lt;/p&gt;&lt;p&gt;The workflow has two entry points;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: medium; padding: 0px;&quot;&gt;&lt;p&gt;1.&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;When a new schedule is delivered&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;2. When policy objects become available&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;The ESNI update workflow handles the interaction between the Beehive and the&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Alice ESNI service.&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="230" width="466" x="290" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Sotk0MtETjAgsV5ZKG8u-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h4&gt;Alice-ESNI-Connector&lt;/h4&gt;&lt;p&gt;The Alice ESNI connectors internal flow:&lt;/p&gt;&lt;p&gt;{Senthil to confirm the internal flow}&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="310" x="406" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="Sotk0MtETjAgsV5ZKG8u-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);fontSize=10;" value="&lt;ol style=&quot;padding-bottom: 0px;&quot;&gt;&lt;li style=&quot;line-height: 130%;&quot;&gt;This is not currently supported. Do we just update &quot;today&quot;?&lt;/li&gt;&lt;li&gt;Do we recreate all SCTE224 objects for all future days?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="100" width="230" x="860" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

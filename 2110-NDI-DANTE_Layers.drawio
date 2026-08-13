@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="QBRtwcBbYCzKnuuvo_nt">
-    <mxGraphModel>
+    <mxGraphModel dx="2716" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vxm8kVgVbYwDyAlb-VQ7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;direction=south;" value="" vertex="1">
+          <mxGeometry height="2080" width="40" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxm8kVgVbYwDyAlb-VQ7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=south;" value="" vertex="1">
+          <mxGeometry height="2090" width="40" x="1310" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxm8kVgVbYwDyAlb-VQ7-4" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" value="" vertex="1">
+          <mxGeometry height="25" width="52" x="300" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxm8kVgVbYwDyAlb-VQ7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="x3" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="207.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -25,9 +25,6 @@
             <mxPoint x="1242" y="612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGo3jgMgpASVQLpPYKc8-119" edge="1" parent="1" source="CGo3jgMgpASVQLpPYKc8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CGo3jgMgpASVQLpPYKc8-118" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" value="Fabric Services" vertex="1">
           <mxGeometry height="153" width="230" x="1362" y="610" as="geometry" />
         </mxCell>
@@ -79,7 +76,7 @@
             <mxPoint x="2002" y="920.08" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGo3jgMgpASVQLpPYKc8-39" edge="1" parent="1" source="CGo3jgMgpASVQLpPYKc8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;startArrow=none;startFill=0;startSize=18;endSize=18;strokeColor=#FF0000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.533;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;flowAnimation=1;strokeWidth=3;" target="CGo3jgMgpASVQLpPYKc8-8">
+        <mxCell id="CGo3jgMgpASVQLpPYKc8-39" edge="1" parent="1" source="CGo3jgMgpASVQLpPYKc8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;startArrow=none;startFill=0;startSize=18;endSize=18;strokeColor=light-dark(#FF0000,#FF0000);entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.533;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;flowAnimation=1;strokeWidth=3;" target="CGo3jgMgpASVQLpPYKc8-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1792" y="920" as="sourcePoint" />
             <mxPoint x="2107" y="920.92" as="targetPoint" />
@@ -329,9 +326,6 @@
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontStyle=2;fontColor=light-dark(#B3B3B3,#B3B3B3);fontSize=15;sketch=1;curveFitting=1;jiggle=2;strokeWidth=3;" value="Ads Data&amp;nbsp;&lt;div&gt;(Live &amp;amp; File)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="145.45454545454547" x="2107.28" y="1212" as="geometry" />
-        </mxCell>
-        <mxCell id="CGo3jgMgpASVQLpPYKc8-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" value="Fabric Services" vertex="1">
-          <mxGeometry height="153" width="230" x="1362" y="377" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

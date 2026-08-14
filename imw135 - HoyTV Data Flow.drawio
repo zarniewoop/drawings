@@ -65,7 +65,7 @@
             <mxPoint x="2072" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGo3jgMgpASVQLpPYKc8-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" value="Ad Server" vertex="1">
+        <mxCell id="CGo3jgMgpASVQLpPYKc8-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF0000,#FF0000);strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" value="Ad Server" vertex="1">
           <mxGeometry height="153" width="230" x="1362" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" value="CDN" vertex="1">

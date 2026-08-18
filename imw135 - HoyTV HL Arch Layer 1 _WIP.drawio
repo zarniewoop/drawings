@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Gs9jnCdPYsQWK_5BJPLG">
-    <mxGraphModel dx="5135" dy="2823" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1712" dy="941" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,8 +94,8 @@
         <mxCell id="808vRRvZHY4DQt_6HGZq-48" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#E5CCFF;fontColor=light-dark(#000000,#3333FF);fontSize=9;fontStyle=2" value="Proxy Cache" vertex="1">
           <mxGeometry height="46" width="120" x="579" y="407" as="geometry" />
         </mxCell>
-        <mxCell id="808vRRvZHY4DQt_6HGZq-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="VOS360&lt;div&gt;Stack&lt;/div&gt;" vertex="1">
-          <mxGeometry height="149" width="120" x="1060" y="304" as="geometry" />
+        <mxCell id="808vRRvZHY4DQt_6HGZq-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="MediaKind&amp;nbsp;&lt;div&gt;VOS360&lt;div&gt;Stack&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="176" width="120" x="1060" y="304" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="NDI | SRT | RTP | ST2022-2" vertex="1">
           <mxGeometry height="30" width="759" x="423" y="220" as="geometry" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="DIAGNL ENHANCE" vertex="1">
-          <mxGeometry height="80" width="120" x="1690" y="400" as="geometry" />
+          <mxGeometry height="180" width="120" x="1690" y="300" as="geometry" />
         </mxCell>
         <mxCell id="808vRRvZHY4DQt_6HGZq-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF262D);" value="RT GFX" vertex="1">
           <mxGeometry height="80" width="130" x="813" y="978" as="geometry" />
@@ -369,7 +369,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6AXlHXO2rH4K_Bubge3-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#3333FF);" value="DIAGNL CMS&lt;div&gt;Stack&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1540" y="400" as="geometry" />
+          <mxGeometry height="180" width="120" x="1540" y="300" as="geometry" />
         </mxCell>
         <mxCell id="G6AXlHXO2rH4K_Bubge3-44" parent="1" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" value="" vertex="1">
           <mxGeometry height="30" width="25.59" x="1467.51" y="1154" as="geometry" />
@@ -511,7 +511,7 @@
           <mxGeometry height="80" width="140" x="1238" y="523.5" as="geometry" />
         </mxCell>
         <mxCell id="G4LdW9K7yckZkrth5uid-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Broadcast Network" vertex="1">
-          <mxGeometry height="30" width="302" x="1523" y="541.5" as="geometry" />
+          <mxGeometry height="30" width="387" x="1523" y="541.5" as="geometry" />
         </mxCell>
         <mxCell id="G4LdW9K7yckZkrth5uid-26" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="Syndicated&amp;nbsp;&lt;div&gt;Content Rx&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="1355" y="430" as="geometry" />

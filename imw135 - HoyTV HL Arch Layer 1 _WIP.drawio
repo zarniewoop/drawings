@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Gs9jnCdPYsQWK_5BJPLG">
-    <mxGraphModel dx="748" dy="425" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="874" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="808vRRvZHY4DQt_6HGZq-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E6E6E6,#808080);" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="580" width="1030" x="107" y="760" as="geometry" />
+          <mxGeometry height="580" width="1040" x="100" y="750" as="geometry" />
         </mxCell>
         <mxCell id="G4LdW9K7yckZkrth5uid-27" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=4.684210526315951;fillColor=#FFFF00;" value="" vertex="1">
           <mxGeometry height="117" width="8" x="120" y="560" as="geometry" />
@@ -630,8 +630,8 @@
         <mxCell id="G6AXlHXO2rH4K_Bubge3-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF262D);" value="QuickLink Remote Commentary" vertex="1">
           <mxGeometry height="50" width="100" x="560" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="G6AXlHXO2rH4K_Bubge3-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF262D);" value="VO Booth&amp;nbsp;&lt;div&gt;Mic | Mixback IO&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="90.63" x="447" y="1249" as="geometry" />
+        <mxCell id="G6AXlHXO2rH4K_Bubge3-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF262D);" value="VO Booth&lt;div&gt;IO&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="453" y="1249" as="geometry" />
         </mxCell>
         <mxCell id="Y-0i3sggKX9PbIPzIpiu-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF262D);" value="TAG" vertex="1">
           <mxGeometry height="50" width="100" x="451" y="805" as="geometry" />
@@ -732,6 +732,20 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="327" y="1022.6700000000001" as="sourcePoint" />
             <mxPoint x="327.8600000000001" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlWNU5NiPNiNt4HNI7Bi-56" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=light-dark(#FF8000,#FF8000);gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;" value="" vertex="1">
+          <mxGeometry height="49.985" width="25.4" x="810" y="804" as="geometry" />
+        </mxCell>
+        <mxCell id="PlWNU5NiPNiNt4HNI7Bi-57" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;startArrow=oval;startFill=1;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=2;fillColor=light-dark(transparent,#FFB570);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="809" y="830" as="sourcePoint" />
+            <mxPoint x="770" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlWNU5NiPNiNt4HNI7Bi-58" connectable="0" parent="PlWNU5NiPNiNt4HNI7Bi-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=light-dark(#FF8000,#FF8000);" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ASI&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2454" as="geometry">
+            <mxPoint x="-5" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

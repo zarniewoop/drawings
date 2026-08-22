@@ -14,7 +14,7 @@
           <mxGeometry height="153" width="230" x="1362" y="370.5" as="geometry" />
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=3;fontFamily=Comic Sans MS;" value="HoyTV App Products &amp;amp; Players" vertex="1">
-          <mxGeometry height="153" width="230" x="1919" y="610" as="geometry" />
+          <mxGeometry height="153" width="230" x="1918" y="610" as="geometry" />
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-10" edge="1" parent="1" source="CGo3jgMgpASVQLpPYKc8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fillColor=light-dark(#0000CC,#0000CC);strokeColor=light-dark(#0000FF,#0000FF);endSize=17;fontSize=20;flowAnimation=0;strokeWidth=4;" target="CGo3jgMgpASVQLpPYKc8-7">
           <mxGeometry relative="1" as="geometry">
@@ -52,7 +52,7 @@
             <mxPoint x="2072" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CGo3jgMgpASVQLpPYKc8-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF0000,#FF0000);strokeWidth=3;fontFamily=Comic Sans MS;" value="Ad Server" vertex="1">
+        <mxCell id="CGo3jgMgpASVQLpPYKc8-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF0000,#FF0000);strokeWidth=3;fontFamily=Comic Sans MS;" value="Ad Sources" vertex="1">
           <mxGeometry height="153" width="230" x="1362" y="1141" as="geometry" />
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=3;fontFamily=Comic Sans MS;" value="CDN" vertex="1">
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=3;fontFamily=Comic Sans MS;" value="Tabatha" vertex="1">
-          <mxGeometry height="153" width="230" x="590" y="1262" as="geometry" />
+          <mxGeometry height="153" width="230" x="591" y="1262" as="geometry" />
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-50" edge="1" parent="1" source="CGo3jgMgpASVQLpPYKc8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;startSize=17;endSize=17;fillColor=light-dark(#0000CC,#0000CC);strokeColor=light-dark(#33FFFF,#33FFFF);fontSize=20;jumpStyle=arc;jumpSize=12;flowAnimation=0;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="CGo3jgMgpASVQLpPYKc8-17">
           <mxGeometry relative="1" as="geometry">
@@ -313,9 +313,6 @@
         </mxCell>
         <mxCell id="CGo3jgMgpASVQLpPYKc8-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontStyle=2;fontColor=light-dark(#B3B3B3,#B3B3B3);fontSize=15;strokeWidth=3;" value="Ads Data&amp;nbsp;&lt;div&gt;(Live &amp;amp; File)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="145.45454545454547" x="2100" y="1212" as="geometry" />
-        </mxCell>
-        <mxCell id="JR_gIhTas1BJbzzZAt19-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=3;fontFamily=Comic Sans MS;" value="FLX MAM" vertex="1">
-          <mxGeometry height="153" width="230" x="160" y="234.5" as="geometry" />
         </mxCell>
         <mxCell id="JR_gIhTas1BJbzzZAt19-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=light-dark(#4D4D4D,#4D4D4D);strokeColor=light-dark(#FF8000,#FF8000);strokeWidth=3;fontFamily=Comic Sans MS;" value="Octopus&lt;div&gt;NRCS&lt;/div&gt;" vertex="1">
           <mxGeometry height="153" width="230" x="865" y="823" as="geometry" />

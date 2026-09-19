@@ -127,11 +127,11 @@
         <mxCell id="kpaHsfNxCBz9QGIU3fm7-62" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=businessRule;" value="Apply priority rules to filter for next batch" vertex="1">
           <mxGeometry height="80" width="120" x="920" y="98" as="geometry" />
         </mxCell>
-        <mxCell id="kpaHsfNxCBz9QGIU3fm7-64" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;bpmnShapeType=call;isLoopSub=1;isLoopMultiParallel=1;" value="Call asset copy subprocess" vertex="1">
+        <mxCell id="kpaHsfNxCBz9QGIU3fm7-64" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;bpmnShapeType=call;isLoopSub=1;isLoopMultiParallel=1;" value="Call &lt;b style=&quot;color: light-dark(rgb(153, 76, 0), rgb(153, 76, 0));&quot;&gt;Asset Copy&lt;/b&gt;&lt;b style=&quot;color: rgb(65, 28, 255);&quot;&gt; &lt;/b&gt;subprocess" vertex="1">
           <mxGeometry height="80" width="120" x="1100" y="98" as="geometry" />
         </mxCell>
-        <mxCell id="kpaHsfNxCBz9QGIU3fm7-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Top level Migration workflow process model" vertex="1">
-          <mxGeometry height="30" width="270" x="480" y="30" as="geometry" />
+        <mxCell id="kpaHsfNxCBz9QGIU3fm7-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Top level Migration workflow process model" vertex="1">
+          <mxGeometry height="30" width="335" x="495" y="50" as="geometry" />
         </mxCell>
         <mxCell id="kpaHsfNxCBz9QGIU3fm7-69" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" value="Generate batch&lt;div&gt;&amp;nbsp;report&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="1270" y="98" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="kpaHsfNxCBz9QGIU3fm7-71" edge="1" parent="1" source="kpaHsfNxCBz9QGIU3fm7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="kpaHsfNxCBz9QGIU3fm7-57">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kpaHsfNxCBz9QGIU3fm7-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b style=&quot;color: light-dark(rgb(173, 62, 0), rgb(237, 237, 237));&quot;&gt;Asset Copy&lt;/b&gt; process model" vertex="1">
+          <mxGeometry height="30" width="335" x="516" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
